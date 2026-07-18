@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toolbox-ai.github.io/ToolBoxAi/sitemap.xml
